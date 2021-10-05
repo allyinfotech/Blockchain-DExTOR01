@@ -36,7 +36,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:+'
     androidTestImplementation 'androidx.test.espresso:espresso-core:+'
 
-    implementation project(path: ':DExTOR01')
+    implementation project(path: ':BlockchainDExTOR01')
 
 
 }
