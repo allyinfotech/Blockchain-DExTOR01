@@ -1,3 +1,3 @@
 rootProject.name = "DExTOR01"
 include ':app'
-include ':BlockchainDExTOR01'
+include ':BlockChainDExTOR01'
